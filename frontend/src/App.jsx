@@ -7,6 +7,7 @@ import Cart from "./Pages/Cart"
 import LoginSignup from "./Pages/LoginSignup"
 import Footer from "./Components/Footer/Footer"
 import men_banner from "./assets/banner.jpg"
+
 import women_banner from "./assets/women_banner.avif"
 import kids_banner from "./assets/kids_banner.jpg"
 function App() {
